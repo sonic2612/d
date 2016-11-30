@@ -16,3 +16,8 @@
 
 ![GitHub Logo](https://github.com/luschenko/fix_css1/blob/master/bcss23.png)
 
+![GitHub Logo](https://github.com/luschenko/fix_css1/blob/master/bcss24.png)
+![GitHub Logo](https://github.com/luschenko/fix_css1/blob/master/bcss25.png)
+![GitHub Logo](https://github.com/luschenko/fix_css1/blob/master/bcss26.png)
+![GitHub Logo](https://github.com/luschenko/fix_css1/blob/master/bcss27.png)
+
