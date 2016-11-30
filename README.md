@@ -11,4 +11,8 @@
 ###Исходный вид
 
 ![GitHub Logo](https://github.com/luschenko/fix_css1/blob/master/bcss21.png)
-Format: ![https://github.com/luschenko/fix_css1/blob/master/bcss21.png)](url)
+
+![GitHub Logo](https://github.com/luschenko/fix_css1/blob/master/bcss22.png)
+
+![GitHub Logo](https://github.com/luschenko/fix_css1/blob/master/bcss23.png)
+
